@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1340394136 source:c:\users\lockland\dropbox\ftec\estrutura dados\trabalhogb\trabalhogb\listad.c
+	"listaD.h"
+
+1340394179 c:\users\lockland\dropbox\ftec\estrutura dados\trabalhogb\trabalhogb\listad.h
+	"my_function.h"
+
+1340390299 source:c:\users\lockland\dropbox\ftec\estrutura dados\trabalhogb\trabalhogb\my_function.c
+	"my_function.h"
+
+1340389440 source:c:\users\lockland\dropbox\ftec\estrutura dados\trabalhogb\trabalhogb\main.c
+	"my_function.h"
+
+1340394181 c:\users\lockland\dropbox\ftec\estrutura dados\trabalhogb\trabalhogb\arvoreb.h
+	"my_function.h"
+
+1340389327 c:\users\lockland\dropbox\ftec\estrutura dados\trabalhogb\trabalhogb\my_function.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaD.h"
+	"arvoreB.h"
+
+1340394057 source:c:\users\lockland\dropbox\ftec\estrutura dados\trabalhogb\trabalhogb\arvoreb.c
+	"arvoreB.h"
+
+1340394136 source:d:\lockland\dropbox\ftec\estrutura dados\trabalhogb\listad.c
+	"listaD.h"
+
+1340394179 d:\lockland\dropbox\ftec\estrutura dados\trabalhogb\listad.h
+	"my_function.h"
+
+1340389327 d:\lockland\dropbox\ftec\estrutura dados\trabalhogb\my_function.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaD.h"
+	"arvoreB.h"
+
+1340394181 d:\lockland\dropbox\ftec\estrutura dados\trabalhogb\arvoreb.h
+	"my_function.h"
+
+1340390299 source:d:\lockland\dropbox\ftec\estrutura dados\trabalhogb\my_function.c
+	"my_function.h"
+
+1340394057 source:d:\lockland\dropbox\ftec\estrutura dados\trabalhogb\arvoreb.c
+	"arvoreB.h"
+
+1340396221 source:d:\lockland\dropbox\ftec\estrutura dados\trabalhogb\main.c
+	"my_function.h"
+
